@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+body {font-size: 100%;
+      font-family: 'Raleway', Arial, sans-serif;}
+
+#map2 { height: 400px;
+        width: 100%;
+        padding-top: 2%;}
+
+
+h1 {font-size: 200%;
+  font-family: 'Cantarell', Verdana, sans-serif;
+    padding-bottom: 2%;}
+
+header {padding-left: 2%;
+}
+
+#overview2 {
+  max-width: 700px;
+  padding: 1em 2em;
+  margin: auto;
+  background-color: #FFF;
+  border: solid;
+  border-left-color: #F6EF40;
+  border-top-color: #0760CA;
+  border-right-color: #E13A1B;
+  border-bottom-color: #fff;
+          border-width: 20px;}
+
+footer {padding: 2%;
+        background-color:#0760CA;
+        color: #fff;}
